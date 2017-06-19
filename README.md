@@ -1,6 +1,9 @@
 # Git Microlab
 The point of this microlab is to get you familiarized with the Git tools.
 
+The slides are located at:
+https://zipcoder.github.io/reveal-slides/tc-git#/
+
 ## Steps
 <hr/>
 
