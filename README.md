@@ -1,10 +1,11 @@
 # Git
-<hr/>
+
 ## What Is Git?
 According to Wikipedia:
 
 > Git is a version control system (VCS) for tracking changes in computer files and coordinating work on those files among multiple people. It is primarily used for software development, but it can be used to keep track of changes in any files.
-<hr/>
+
+
 ## Basic Git Concepts
 
 ### Repository
@@ -18,7 +19,8 @@ An extension of a repository.  All repos start with a `master` branch.  From the
 ### Commit
 
 A commit is a change to the repository.  For every commit made, you have a record of the state of the repository at that given point in time.
-<hr/>
+
+
 ## Git Commands
 * `git init` -- Creates a new local repository in the current directory.
   * NOTE: This isn't really that common of a command.  So if you find yourself typing it with any regularity, you're probably doing something wrong.
